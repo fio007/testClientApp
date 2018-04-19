@@ -1,0 +1,49 @@
+#createQuestion {
+    padding: 25px;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: #65d6db;
+    box-shadow: 1px 3px 10px 1px rgba(0,0,0,0.5);
+}
+
+#createQuestion > .Select {
+	width: 400px;
+}
+
+#singleChoice {
+	margin-top: 15px;
+}
+
+p.choice {
+	margin: 20px 0 10px 0;
+}
+
+.answers {
+	margin-top: 15px;
+}
+
+.variable {
+    height: 36px;
+    outline: none;
+    border: none;
+    width: 100%;
+    box-shadow: 0px 1px 0px 0 #e5e5e5;
+}
+
+.variable:focus {
+    box-shadow: 0px 1px 0px 0 #cccccc;
+}
+
+div.variable {
+    width: calc(100% - 40px);
+}
+
+.close:hover {
+	
+}
+
+.addVariable {
+	margin-top: 10px;
+    text-align: right;
+}

@@ -1,0 +1,36 @@
+body {
+	background-color: #f1f1f1;
+}
+
+input {
+	padding-left: 10px;
+}
+
+#root {
+	width: 100%;
+	height: 100%;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+#content {
+    margin: 40px 50px;
+}
+
+#header {
+	background-color: #67d5da;
+    height: 50px;
+    width: 100%;
+}
+
+.buttonPreveiw {
+	margin: 0 auto;
+	width: 200px;
+	white-space: pre-line;
+}
+
+.buttonGroups {
+	margin-top: 45px;
+}
